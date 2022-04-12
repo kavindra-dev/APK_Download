@@ -11,6 +11,9 @@ Android Studio - Java
 
 #Rockit - A Rocket game Application developed using Corona Sdk for learning purpose.
 
+#FriendzMeet - Social Media Application, currently unavilable to use but can activate when requested.
+https://drive.google.com/file/d/1af31HJ6vciARpEMbbfZCXLXWO6v4ulnC/view?usp=sharing
+
 Checkout my other application link that are live on playstore
 
 #Sweetsmart - https://play.google.com/store/apps/details?id=com.asm.datatronics.sweetsmart
