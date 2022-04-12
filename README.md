@@ -19,4 +19,5 @@ Checkout my other application link that are live on playstore
 
 #Club Management App
 Admin App - https://play.google.com/store/apps/details?id=com.magic.clubadmin
+
 Member App - https://play.google.com/store/apps/details?id=com.magic.clubmember
